@@ -1,4 +1,5 @@
 #este script trae todos los hosts que son Centos y estan incorrectamente suscriptos al satellite se agrego este comentario
+#the API call client.system.getRunningKernel() would likely work.
 !/usr/bin/python
 import xmlrpclib
 
