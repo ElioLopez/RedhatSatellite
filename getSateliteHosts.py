@@ -1,4 +1,4 @@
-#este script trae todos los hosts que son Centos y estan incorrectamente suscriptos al satellite
+#este script trae todos los hosts que son Centos y estan incorrectamente suscriptos al satellite se agrego este comentario
 !/usr/bin/python
 import xmlrpclib
 
